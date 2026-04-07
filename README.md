@@ -1,44 +1,96 @@
-## 😉 About Me 
-```python
-class Human(NeuralNetwork):
-    """
-    Carbon-based learning algorithm @ IIT Bhilai
-    Warning: Runs on chai and confusion 
-    """
-    def __init__(self):
-        self.university = "Indian Institute of Technology, Bhilai"
-        self.degree = "B.Tech in Data Science & AI"
-        self.focus = ["NLP", "GenAI ", "Deep Learning"]
-        self.status = "Teaching machines while machine learning myself"
-    def daily_routine(self):
-        while True:
-            try:
-                self.train(models=["Transformers", "LLMs", "My patience"])
-                self.process(data=["text", "audio", "existential crises"])
-                self.drink(beverage="chai", amount=float('inf'))
-            except MotivationError:
-                self.scroll(content="AI memes")
-            except SleepDeprivationError:
-                print("Why did I choose AI again?")
-                # Oh right, it's awesome ;)
-    def __repr__(self):
-        return f"Student(brain='gradient_descent', accuracy='questionable')"
-# Initialize
-me = Human()
-me.compile(optimizer="Adam", metrics=["confusion", "excitement"])
-print("Status: Overfitting on coffee, underfitting on sleep  :| ")
-```
-**TL;DR**: IIT Bhilai undergrad making computers smarter (hopefully). Specializing in GenAI, NLP, Deep Learning. Part-time code whisperer, full-time debugger. Currently in a complicated relationship with Tensorflow :)
+<br clear="both">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/surizz1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suraj.kumar161017@gmail.com) 
+<div align="center">
+  <img height="300" width="100%" src="https://wallpapers.com/images/hd/meme-pictures-2980e3l9sx0bhn8w.jpg"  />
+</div>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Suraj026&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Suraj026&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj026&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+###
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Suraj026&limit=5&theme=neon&combine_all_yearly_contributions=true)
+<br clear="both">
+
+<h1 align="left">👋About Me</h1>
+
+###
+
+<br clear="both">
+
+<p align="left">🔭 I’m currently working on building things that break in production so I can learn how to fix them<br>👯 I’m looking to collaborate on Projects that have a real impact, not just another todo app<br>🌱 I’m currently learning System design, DSA, Agentic AI and the art of writing code people can actually read<br>💬 Ask me about how I went from "hello world" to whatever this is now<br>⚡ Fun fact : My first program was a calculator. I still can't do mental math 🥲</p>
+
+###
+
+<br clear="both">
+
+<h1 align="left">🛠️Coding with</h1>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h1 align="left">⚡Powered by</h1>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
+</div>
+
+###
+
+<h1 align="left">🤝Connect</h1>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/suraj-kumar-747750303" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="49" height="34" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:suraj.kumar161017@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="49" height="34" alt="gmail logo"  />
+  </a>
+  <a href="https://discordapp/users/1237312125106651139" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="49" height="34" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/surizz1?igsh=a2Jna2xqd2NlcDEz" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="49" height="34" alt="instagram logo"  />
+  </a>
+</div>
+
+###
