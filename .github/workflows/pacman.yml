@@ -2,22 +2,27 @@ name: Generate Pacman Contribution Graph
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # runs every 12 hours
-  workflow_dispatch:       
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
 
 permissions:
-  contents: write  
+  contents: write
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Pacman Graph
+      - name: Generate Pacman Graph (light + dark)
         uses: Platane/snk@v3
         with:
           github_user_name: Suraj026
-          outputs: dist/pacman-contribution-graph.svg
+          outputs: |
+            dist/pacman-light.svg
+            dist/pacman-dark.svg?palette=github-dark
 
       - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v4
