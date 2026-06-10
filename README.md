@@ -93,4 +93,10 @@
   </a>
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Suraj026/Suraj026/output/pacman-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Suraj026/Suraj026/output/pacman-light.svg" />
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Suraj026/Suraj026/output/pacman-light.svg" />
+</picture>
+
 ###
